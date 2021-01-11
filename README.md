@@ -1,4 +1,4 @@
-# soulscape
+# soul/scape
 ## A fictional travel agency based in Paris, France
 ### Live Site: https://ohene7.github.io/soulscape/
 
