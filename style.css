@@ -13,7 +13,7 @@
 }
 
 html, body {
-  background-image: linear-gradient(to right, #E60940, #530519);
+  background-color: #fff;
 }
 
 .showcase {
@@ -195,6 +195,7 @@ main {
 
 .about-icons-box {
   padding: 20px;
+  width: 400px;
 }
 
 .about-icons i {
@@ -221,7 +222,7 @@ main {
 }
 
 .about p {
-  min-width: 400px;
+  max-width: 300px;
 }
 
 
