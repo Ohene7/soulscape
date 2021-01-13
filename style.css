@@ -349,20 +349,8 @@ footer p {
   font-size: 12px;
 }
 
-@media screen and (max-width: 1480px) {
-  body, html {
-    background-color: #fff;
-    background-image: none;
-  }
-  .about-icons {
-    flex-direction: column;
-    align-items: center;
-    align-content: center;
-    justify-content: center;
-  }  
-}
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 800px) {
   .showcase, .showcase header {
     padding: 40px;
   }
